@@ -1,4 +1,11 @@
 - name: 'Aleeya Dasgupta'
   github_nickname: 'aleeyad'
+  city_name: "Goa"
+  wifi: true
+  rating: 4
 - name: 'Henriette'
   github_nickname: 'henriettefl'
+  city_name: "Berlin"
+  wifi: true
+  rating: 5
+
